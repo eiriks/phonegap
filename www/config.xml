@@ -6,7 +6,7 @@
         id        = "com.phonegap.phonegap173test"
         version   = "0.1.1">
 
-    <name>Eksempelkode med phonegao</name>
+    <name>Eksempelkode med phonegap</name>
 
     <description>
         Kode som går gjennom alle(?) API-funksjonene i phonegap. 
