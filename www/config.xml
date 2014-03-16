@@ -6,10 +6,10 @@
         id        = "com.phonegap.phonegap173test"
         version   = "0.1.1">
 
-    <name>HelloWorld</name>
+    <name>Eksempelkode med phonegao</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Kode som går gjennom alle(?) API-funksjonene i phonegap. 
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
